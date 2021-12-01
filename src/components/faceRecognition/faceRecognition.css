@@ -1,0 +1,17 @@
+
+.faceWrapper{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+
+.bounding-box{
+    box-shadow: 0 0 0 3px blue inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+    position: absolute;
+
+}
