@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/face-app/static/css/main.efda71f8.chunk.css",
+    "main.js": "/face-app/static/js/main.ab87dd8b.chunk.js",
+    "main.js.map": "/face-app/static/js/main.ab87dd8b.chunk.js.map",
+    "runtime-main.js": "/face-app/static/js/runtime-main.d88e0d77.js",
+    "runtime-main.js.map": "/face-app/static/js/runtime-main.d88e0d77.js.map",
+    "static/js/2.1a02ed50.chunk.js": "/face-app/static/js/2.1a02ed50.chunk.js",
+    "static/js/2.1a02ed50.chunk.js.map": "/face-app/static/js/2.1a02ed50.chunk.js.map",
+    "static/js/3.9fc6e92e.chunk.js": "/face-app/static/js/3.9fc6e92e.chunk.js",
+    "static/js/3.9fc6e92e.chunk.js.map": "/face-app/static/js/3.9fc6e92e.chunk.js.map",
+    "index.html": "/face-app/index.html",
+    "static/css/main.efda71f8.chunk.css.map": "/face-app/static/css/main.efda71f8.chunk.css.map",
+    "static/js/2.1a02ed50.chunk.js.LICENSE.txt": "/face-app/static/js/2.1a02ed50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d88e0d77.js",
+    "static/js/2.1a02ed50.chunk.js",
+    "static/css/main.efda71f8.chunk.css",
+    "static/js/main.ab87dd8b.chunk.js"
+  ]
+}
